@@ -8,5 +8,6 @@ namespace prueba
 {
     class Class1
     {
+        //Hola
     }
 }
